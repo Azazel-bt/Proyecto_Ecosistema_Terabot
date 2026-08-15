@@ -27,3 +27,40 @@
 ## 📌 Arquitectura del Ecosistema
 
 El **Ecosistema Terabot** integra dispositivos biomédicos de captura de señales mioeléctricas (EMG), robótica de asistencia y un sistema de procesamiento inteligente para optimizar terapias físicas y rehabilitación neuromuscular en tiempo real.
+
+
+---
+
+### 👁️ Matriz Visual de Expresiones Robóticas (Robo Eyes)
+
+Configuración dinámica del subsistema de avatar visual para interacción con el paciente:
+
+| Estado de la Interfaz | `EYE_PATTERN` | Animación Visual | Función Terapéutica |
+| :--- | :---: | :--- | :--- |
+| **Reposillo / Standby** | `P1_DEFAULT` | Puntiforme centrado | Estado neutro de espera de señal. |
+| **Escaneo EMG** | `P2_SCANNING` | Barrido horizontal cian | Adquisición activa de señales mioeléctricas. |
+| **Calibración / Feedback** | `P3_CALIBRATING` | Pulso circular adaptativo | Ajuste de umbrales según fatiga del paciente. |
+| **Alerta / Exceso de Carga** | `P4_ERROR` | Triangulación / Destello rojo | Interrupción preventiva por sobreesfuerzo. |
+| **Modo Reposo** | `P5_SLEEP` | Párpados entrecerrados | Modulo pasivo / recarga de sistema. |
+| **Procesamiento de Datos** | `P6_ANALYZING` | Parpadeo alterno complejo | Extracción de características de la señal sEMG. |
+
+---
+
+### 🎛️ Diagnóstico del Sistema y Módulos Activos
+
+| Módulo | Especificación Técnica | Estado | Tasa / Frecuencia |
+| :--- | :--- | :---: | :---: |
+| **Brazalete EMG** | Adquisición no invasiva de 8 canales | `OPERATIONAL` | $1000\text{ Hz}$ |
+| **Núcleo de Procesamiento** | Filtrado digital + Extracción de características | `PROCESSING` | $<5\text{ ms latency}$ |
+| **Robótica Terapéutica** | Exoesqueleto adaptativo | `STANDBY` | Loop $100\text{ Hz}$ |
+| **Telemetría Cloud** | Sincronización remota de datos del paciente | `CONNECTED` | Real-time |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:030B1E&height=100&section=footer" width="100%" />
+
+<sub><b>TERABOT SYSTEMS ARCHITECTURE</b> • Interface Powered by Stark Technology</sub>
+
+</div>
