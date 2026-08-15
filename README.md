@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030B1E,50:0A192F,100:00F2FE&height=220&section=header&text=TERABOT%20SYSTEMS&fontSize=48&fontColor=00F2FE&animation=twinkling&fontAlignY=42" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030B1E,50:0A192F,100:00F2FE&height=220&section=header&text=ERABOT%20SYSTEMS&fontSize=48&fontColor=00F2FE&animation=twinkling&fontAlignY=42" width="100%" />
 
 <br/>
 
