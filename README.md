@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Plataforma+M%C3%A9dica+de+Rehabilitaci%C3%B3n;Brazalete+EMG+%2B+Rob%C3%B3tica+Terap%C3%A9utica;Ecosistema+de+Hardware+y+Software;J.A.R.V.I.S.+HUD+INTERFACE+ACTIVE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Plataforma+M%C3%A9dica+de+Rehabilitaci%C3%B3n;Brazalete+%2B+Rob%C3%B3tica+Terap%C3%A9utica;Ecosistema+de+Hardware+y+Software;.+HUD+INTERFACE+ACTIVE)](https://git.io/typing-svg)
 
 <br/>
 
