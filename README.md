@@ -26,7 +26,7 @@
 
 ## 📌 Arquitectura del Ecosistema
 
-El **Ecosistema Terabot** integra dispositivos biomédicos de captura de señales mioeléctricas (EMG), robótica de asistencia y un sistema de procesamiento inteligente para optimizar terapias físicas y rehabilitación neuromuscular en tiempo real.
+El **Ecosistema Terabot** integra dispositivos de captura de señales, robótica de asistencia y un sistema de procesamiento inteligente para optimizar terapias físicas y rehabilitación neuromuscular en tiempo real.
 
 
 
