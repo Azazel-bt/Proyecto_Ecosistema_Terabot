@@ -36,6 +36,6 @@ El **Ecosistema Terabot** integra dispositivos de captura de señales, robótica
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:030B1E&height=100&section=footer" width="100%" />
 
-<sub><b>TERABOT SYSTEMS ARCHITECTURE</b> • Interface Powered by Stark Technology</sub>
+<sub><b>ERABOT SYSTEMS ARCHITECTURE</b> • Interface Powered by ERA Technology</sub>
 
 </div>
